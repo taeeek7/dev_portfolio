@@ -10,7 +10,7 @@
 ## 3. 데이터 쿼리 추출 및 시트 업로드 자동화 (data_extract_from_SQL)
 #### - 필요한 데이터를 SQL query 활용하여 추출 후 구글 시트에 자동으로 업로드
 
-## 4. 데이터베이스 마이그레이션 자동화 (database_migration
+## 4. 데이터베이스 마이그레이션 자동화 (database_migration)
 #### - google cloud platform 활용을 위해 원본DB 데이터를 추출하여 신규 DB에 insert하는 작업 자동화
 
 ## 5. 카카오 알림톡 발송 자동화 (kakao_alarmtalk)
