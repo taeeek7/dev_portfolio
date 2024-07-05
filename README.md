@@ -19,3 +19,7 @@
 ## 6. 노션 작업 자동화 ([notion_API](https://github.com/taeeek7/dev_portfolio/tree/master/notion_API))
 #### 1) 노션 데이터베이스의 데이터를 읽어서 구글 시트에 자동 적재
 #### 2) 구글 시트에 있는 데이터를 노션 데이터베이스에 자동 업로드
+
+## 7. 요청사항접수 슬랙봇 ([request_form_slackbot](https://github.com/taeeek7/dev_portfolio/tree/master/request_form_slackbot))
+#### 1) slack_bolt 프레임워크를 활용하여 요청사항을 접수할 수 있는 슬랙봇 제작
+#### 2) 접수된 건을 구글 시트에 자동 적재, 소켓모드를 이용하여 스레드로 처리 결과 작성 프로세스 구축

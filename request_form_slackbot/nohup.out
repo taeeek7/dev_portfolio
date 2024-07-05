@@ -1,0 +1,18 @@
+Unhandled request ({'type': None, 'command': '/요청사항접수테스트'})
+---
+[Suggestion] You can handle this type of event with the following listener function:
+
+@app.command("/요청사항접수테스트")
+def handle_some_command(ack, body, logger):
+    ack()
+    logger.info(body)
+
+Unhandled request ({'type': None, 'command': '/요청사항접수테스트'})
+---
+[Suggestion] You can handle this type of event with the following listener function:
+
+@app.command("/요청사항접수테스트")
+def handle_some_command(ack, body, logger):
+    ack()
+    logger.info(body)
+
