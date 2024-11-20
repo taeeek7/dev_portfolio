@@ -23,3 +23,11 @@
 ## 7. 요청사항접수 슬랙봇 ([request_form_slackbot](https://github.com/taeeek7/dev_portfolio/tree/master/request_form_slackbot))
 #### 1) slack_bolt 프레임워크를 활용하여 요청사항을 접수할 수 있는 슬랙봇 제작
 #### 2) 접수된 건을 구글 시트에 자동 적재, 소켓모드를 이용하여 스레드로 처리 결과 작성 프로세스 구축
+
+## 8. airflow ([airflow](https://github.com/taeeek7/dev_portfolio/tree/master/airflow))
+#### 1) airflow 활용 자동화 작업 스케줄링
+#### 2) airflow 활용 배치 작업을 통한 데이터 파이프라인 구축
+
+## 8. 카카오 채널 웹크롤링 ([kakao_crawler](https://github.com/taeeek7/dev_portfolio/tree/master/kakao_crawler))
+#### 1) selenium, beautiful soup 활용하여 데이터 웹 크롤링
+#### 2) 챗봇 제작을 위한 raw data 수집

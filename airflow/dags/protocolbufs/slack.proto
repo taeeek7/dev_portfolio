@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+package slack;
+
+message GradeUpEvent {
+  string block_id = 1;
+  string action_time = 2;
+  string text_value = 3;
+  string member_keeper_id = 4;
+  string select_type = 5;
+  string username = 6;
+}
+
+message ClientClaimEvent {
+    string action_id = 1;
+    string root_trigger_id = 2;
+    string pay_point = 3;
+    string message_ts = 4;
+    string channel_id = 5;
+}
